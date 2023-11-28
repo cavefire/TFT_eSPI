@@ -1,4 +1,4 @@
-Modifications made to work with the Lilygo S3 Display.
+Modifications for use with the Lilygo S3 display.
 
 A ["Discussions"](https://github.com/Bodmer/TFT_eSPI/discussions) facility has been added for Q&A etc. Use the ["Issues"](https://github.com/Bodmer/TFT_eSPI/issues) tab only for problems with the library. Thanks!
 # News
